@@ -1,6 +1,6 @@
 {
-	"author": "Malik City",
-	"name": "fcc-learn-npm-package-json",
+   "author": "Malik City",
+   "name": "fcc-learn-npm-package-json",
   "description": "A project that does something awesome",
   "keywords": [ "descriptive", "related", "words", "freecodecamp" ],
   "license": "MIT",
